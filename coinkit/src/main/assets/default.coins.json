@@ -79,6 +79,20 @@
       "address": "0x514910771af9ca656af840dff83e8264ecf986ca"
     },
     {
+      "title": "StarShip",
+      "code": "STARSHIP",
+      "decimal": 9,
+      "type": "bep20",
+      "address": "0x52419258e3fa44deac7e670eadd4c892b480a805"
+    },
+    {
+      "title": "Crypto Phoenix",
+      "code": "$CPHX",
+      "decimal": 18,
+      "type": "erc20",
+      "address": "0x8689d850cdf3b74a1f6a5eb60302c785b71c2fc7"
+    },
+    {
       "title": "Compound",
       "code": "COMP",
       "decimal": 18,
