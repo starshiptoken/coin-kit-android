@@ -65,6 +65,20 @@
       "address": "0x8689d850cdf3b74a1f6a5eb60302c785b71c2fc7"
     },
     {
+      "title": "Floki Inu",
+      "code": "FLOKI",
+      "decimal": 9,
+      "type": "erc20",
+      "address": "0x43f11c02439e2736800433b4594994bd43cd066d"
+    },
+    {
+      "title": "Floki Inu",
+      "code": "FLOKI",
+      "decimal": 9,
+      "type": "bep20",
+      "address": "0x2b3f34e9d4b127797ce6244ea341a83733ddd6e4"
+    },
+    {
       "title": "Tether USD",
       "code": "USDT",
       "decimal": 6,
