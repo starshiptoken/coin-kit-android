@@ -107,6 +107,13 @@
       "address": "0xd22246644d2be5d0427a8e474477d96677c3ec24"
     },
     {
+      "title": "TCGCoin 2.0",
+      "code": "TCG2",
+      "decimal": 9,
+      "type": "bep20",
+      "address": "0xf73d8276c15ce56b2f4aee5920e62f767a7f3aea"
+    },
+    {
       "title": "Binance ERC20",
       "code": "BNB",
       "decimal": 18,
