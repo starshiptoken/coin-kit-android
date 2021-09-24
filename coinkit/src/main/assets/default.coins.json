@@ -86,6 +86,27 @@
       "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
     },
     {
+      "title": "ETHVault",
+      "code": "ETHVAULT",
+      "decimal": 9,
+      "type": "bep20",
+      "address": "0x63d55ecdebf08f93d0f2d5533035ddccaa997d7a"
+    },
+    {
+      "title": "SafeVault",
+      "code": "VAULT",
+      "decimal": 9,
+      "type": "bep20",
+      "address": "0xe2e6e66551e5062acd56925b48bba981696cccc2"
+    },
+    {
+      "title": "FlatSwap",
+      "code": "FSWAP",
+      "decimal": 18,
+      "type": "bep20",
+      "address": "0xd22246644d2be5d0427a8e474477d96677c3ec24"
+    },
+    {
       "title": "Binance ERC20",
       "code": "BNB",
       "decimal": 18,
