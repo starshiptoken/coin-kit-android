@@ -100,6 +100,13 @@
       "address": "0xe2e6e66551e5062acd56925b48bba981696cccc2"
     },
     {
+      "title": "Vicewrld",
+      "code": "VICE",
+      "decimal": 18,
+      "type": "bep20",
+      "address": "0xeea06fc74182b195f679f31d735d95ee502f03f3"
+    },
+    {
       "title": "FlatSwap",
       "code": "FSWAP",
       "decimal": 18,
