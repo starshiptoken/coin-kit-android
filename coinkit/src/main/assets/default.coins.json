@@ -58,6 +58,34 @@
       "address": "0x52419258e3fa44deac7e670eadd4c892b480a805"
     },
     {
+      "title": "Moonpoly",
+      "code": "CMP",
+      "decimal": 9,
+      "type": "bep20",
+      "address": "0xcfd947b1ad06c39522fb67fb00b21a3fda906e34"
+    },
+    {
+      "title": "UltraSafe",
+      "code": "ULTRA",
+      "decimal": 9,
+      "type": "bep20",
+      "address": "0x0b3f42481c228f70756dbfa0309d3ddc2a5e0f6a"
+    },
+    {
+      "title": "dexIRA",
+      "code": "DEX",
+      "decimal": 9,
+      "type": "bep20",
+      "address": "0x147E07976E1ae78287c33aAFAab87760d32E50A5"
+    },
+    {
+      "title": "CURE Token V2",
+      "code": "CURE",
+      "decimal": 9,
+      "type": "bep20",
+      "address": "0x76aecb353abf596bd61ee6bdb07d70787dec4fd6"
+    },
+    {    
       "title": "Crypto Phoenix",
       "code": "CPHX",
       "decimal": 18,
@@ -133,6 +161,20 @@
       "decimal": 8,
       "type": "bep2",
       "symbol": "BUSD-BD1"
+    },
+    {
+      "title": "Tether USD",
+      "code": "USDT",
+      "decimal": 6,
+      "type": "erc20",
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    },
+    {
+      "title": "Binance-Peg BUSD-T",
+      "code": "BUSD-T",
+      "decimal": 18,
+      "type": "bep20",
+      "address": "0x55d398326f99059ff775485246999027b3197955"
     },
     {
       "title": "Bitcoin BEP2",
